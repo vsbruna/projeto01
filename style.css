@@ -1,3 +1,14 @@
-h2{
-    color: black;
+.cabecalho{
+    background-color: fuchsia;
+}
+
+.principal{
+    background-color: deeppink;
+    color: crimson;
+}
+
+.rodape{
+    background-color: black;
+    color: ghostwhite;
+    text-align: center;
 }
