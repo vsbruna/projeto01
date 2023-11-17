@@ -1,0 +1,11 @@
+#imagem-vaquinha { 
+    width: 200px;
+
+}
+.cabeçalho{
+    border: 3px;
+    border-style: dashed;
+    border-color: chocolate;
+    background-color: crimson;
+    color: white;
+}
