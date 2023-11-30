@@ -17,4 +17,8 @@
     border-color: brown;
     border-right: double;
 }
-#link
+#link-vaquinha{
+    font-size: 30px;
+    color: orange;
+    text-decoration: double;
+}
